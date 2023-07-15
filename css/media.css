@@ -1,10 +1,10 @@
-@media screen and (max-width: 1260px) {
+@media screen and (max-width: 1000px) {
     .nav {
-        grid-template-columns: 1fr auto 0px 370px 0px auto 90px auto 1fr;
+        grid-template-columns: 1fr auto 0px 110px 0px auto 90px auto 1fr;
     }
 }
 
-@media screen and (max-width: 1060px) {
+@media screen and (max-width: 800px) {
     .nav {
         grid-template-columns: 100px auto 1fr 155px 1fr auto 0px auto 100px;
     }
